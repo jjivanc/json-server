@@ -3,49 +3,49 @@
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/console.png",
+				"img": "https://page-alurageek.herokuapp.com/img/console.png",
         "id": 1
       },
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/diversos.png",
+				"img": "https://page-alurageek.herokuapp.com/img/diversos.png",
         "id": 2
       },
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/star-wars.png",
+				"img": "https://page-alurageek.herokuapp.com/img/star-wars.png",
         "id": 3
       },
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/console.png",
+				"img": "https://page-alurageek.herokuapp.com/img/console.png",
         "id": 4
       },
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/diversos.png",
+				"img": "https://page-alurageek.herokuapp.com/img/diversos.png",
         "id": 5
       },
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/star-wars.png",
+				"img": "https://page-alurageek.herokuapp.com/img/star-wars.png",
         "id": 6
       },
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/console.png",
+				"img": "https://page-alurageek.herokuapp.com/img/console.png",
         "id": 7
       },
       {
         "nome": "produto",
         "valor": "60,00",
-				"img": "https://json-server.jjivanc.repl.co/img/diversos.png",
+				"img": "https://page-alurageek.herokuapp.com/img/diversos.png",
         "id": 8
       }
     ]
